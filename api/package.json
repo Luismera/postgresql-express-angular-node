@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^7.12.1",
     "body-parser": "^1.15.2",
     "bcrypt-nodejs": "0.0.3",
